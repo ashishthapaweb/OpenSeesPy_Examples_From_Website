@@ -1,0 +1,6 @@
+{
+  "typeCheckingMode": "basic",
+  "diagnosticRules": {
+    "reportUndefinedVariable": "none"
+  }
+}
